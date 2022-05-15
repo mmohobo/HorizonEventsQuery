@@ -2,7 +2,7 @@
 # a specific user's activity and present it in a table sorted newest first.
 # The logged in user must have read rights to the Horizon Events database.
 
-# Written by Rick Redfern, last updated 28 Apr 2022
+# Written by Rick R, last updated 28 Apr 2022
 
 # Username to search for is required
 param(
